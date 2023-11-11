@@ -12,6 +12,7 @@ The purpose is to perform EDA and machine learning on this dataset and create vi
 
 To run this app, follow those steps : 
 1. Donwload the requirements :
-   ''' pip install -r requirements.txt
+   '''bash
+   pip install -r requirements.txt
 3. 
 
